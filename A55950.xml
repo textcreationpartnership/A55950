@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the Common-Hall of London the 24th of June, 1681. At the choice of sheriffs, and other officers as also the proceedings there the 27th instant, at the declaring of the sheriffs, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55950</idno><idno type="EEBO-CITATION">99825915</idno>
+  <idno type="VID">30307</idno>
+  <idno type="EEBO-PROQUEST">2240876708</idno>
+  
+            <idno type="STC">Wing P3578</idno>
+            <idno type="STC">ESTC R213566</idno>
+            <idno type="PROQUEST">99825915</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825915e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30307)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2176:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the Common-Hall of London the 24th of June, 1681. At the choice of sheriffs, and other officers as also the proceedings there the 27th instant, at the declaring of the sheriffs, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Janeway, in Queens-head-Alley in Pater-noster-Row,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30307:1"/>
+            <head>THE PROCEEDINGS OF THE Common - Hall OF LONDON The 24th of <hi>June,</hi> 1681.</head>
+            <head type="sub">At the Choice of SHERIFFS, and other Officers: AS ALSO The Proceedings there the 27th Instant, at the De<g ref="char:EOLhyphen"/>claring of the Sheriffs. <hi>&amp;c.</hi>
+            </head>
+            <p>THE Livery-men being met in the <hi>Guild-Hall</hi> between Ten and Eleven of the Clock, the Lord Mayor and Aldermen came upon the <hi>Hustings,</hi> and immediately the Common Cryer Declared the <hi>Hall:</hi> After which the Re<g ref="char:EOLhyphen"/>corder made a most excellent Speech, shew<g ref="char:EOLhyphen"/>ing by what Authority they there met: And the Officers they were to Chuse, especially the Sheriffs, in whom they put a very great Trust; therefore they had need to Chuse Men of good Principles, <hi>&amp;c.</hi> Then the Lord Mayor, <hi>&amp;c.</hi> withdrew; and the Common Serjeant having made a Speech, the Hall pro<g ref="char:EOLhyphen"/>ceeded to Election, and began with the She<g ref="char:EOLhyphen"/>riffs; the persons put up to be Elected, were <hi>Thomas Pilkington,</hi> Alderman, <hi>Samuel Shute,</hi> Esq; <hi>Ralph Box,</hi> Esq; Sir <hi>William Russell,</hi> Sir <hi>William Dodson, Humfrey Nicholson,</hi> Esq; They agreed Alderman <hi>Pilkington</hi> to be put up first; but some Dispute was in the Hall, whether Mr. <hi>Shute,</hi> or Mr. <hi>Box</hi> should be the next; the Major part of the Hall appear'd for <hi>Shute;</hi> but the Common Serjeant said, It was in his Power to put up whom he pleas'd first; upon which a Member of the Hall said, It was not in his Power to put up whom he pleas'd first, but it was in the Power of the Hall to put up and Chuse a Common Serjeant, which they would do presently, if he did not behave him<g ref="char:EOLhyphen"/>self better. At length it was agreed Mr. <hi>Shute</hi> should be put up before Mr. <hi>Box;</hi> which being done, they proceeded to Election: The Can<g ref="char:EOLhyphen"/>didates being put up singly, it appear'd very plain, by the Number of Hands, that the Ele<g ref="char:EOLhyphen"/>ction fell upon Alderman <hi>Pilkington</hi> and Mr. <hi>Shute;</hi> but persons Demanding a Poll for Mr. <hi>Box</hi> and Mr. <hi>Nicholson,</hi> the present Sheriffs granted it. The Hall then went to the Choice of <hi>Chamberlain,</hi> Sir <hi>Thomas Player,</hi> the present Chamberlain, and Deputy <hi>Daniel</hi> being the persons put up, there did not appear Twenty Hands, according to view, for Deputy <hi>Daniel;</hi> so the Election was clear for that Worthy Citizen and True English-man, Sir <hi>Thomas Player;</hi> whose Carriage hath been such, as will make him Honourable in future Ages to all good Protestants.</p>
+            <p>The Hall then Chose the Auditors of the Bridg-House Accounts; Many were put up, but the Election was clear for Mr. <hi>Thomas Shepherd,</hi> and Mr. <hi>Michael Godfrey,</hi> Merchants, two Worthy Citizens.</p>
+            <p>Then the Hall proceeded to the Choice of Bridg-Masters; the persons in Nomination were Deputy <hi>Sexton,</hi> Mr. <hi>Shepherd,</hi> the present Bridg-Masters, and Captain <hi>Brackley;</hi> by the view of Hands it was judged to fall upon Deputy <hi>Sex<g ref="char:EOLhyphen"/>ton</hi> and Mr. <hi>Shepherd:</hi> but a Poll was demand<g ref="char:EOLhyphen"/>ed for Captain <hi>Brackley,</hi> which was granted.</p>
+            <p>The Hall then Chose the <hi>Aleconners,</hi> which was all the same as was last year. The She<g ref="char:EOLhyphen"/>riffs then declared they would go up and ac<g ref="char:EOLhyphen"/>quaint the Lord Mayor of the Proceedings of the Hall, and then go presently to Polling, and make an end this night, which they ac<g ref="char:EOLhyphen"/>cordingly immediately came back; Alderman
+<pb facs="tcp:30307:2"/>
+               <hi>Pilkington</hi> declar'd he would not hold, if he was not Chosen by Poll, for that he would take no notice of the Common-Halls confirm<g ref="char:EOLhyphen"/>ing the Lord Mayor's drinking to him. Then the Sheriffs went to Polling in the <hi>Guild-Hall-Yard,</hi> under the <hi>Piazza's,</hi> where the Worthy Sheriffs (as they are Famous for the rest of their True English Actions, this may be Re<g ref="char:EOLhyphen"/>corded amongst the rest) had prepared Ele<g ref="char:EOLhyphen"/>ven Writers to take the Poll, and several Worthy Citizens view'd the taking of the same; and between seven and eight of the Clock in the evening the Sheriffs went upon the <hi>Hustings</hi> in the <hi>Guild-Hall,</hi> and had Pro<g ref="char:EOLhyphen"/>clamation made, That if any person that had a Right to Poll, could give any reason why the Poll should not be shut up, they were de<g ref="char:EOLhyphen"/>sired to speak; upon which there was not a Man spoke.</p>
+            <p>Thus those Worthy Sheriffs finished that in five or six hours, that some in their places for<g ref="char:EOLhyphen"/>merly were six or seven days about, to the great ease and content of the Citizens.</p>
+            <p>Upon the 27<hi>th</hi> Instant a Common-Hall was call'd to declare the Election; and upon view of die Poll, Alderman <hi>Pilkington</hi> had 3144, Mr. <hi>Sh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> 2244, Mr. <hi>Box</hi> 1266, Mr. <hi>Nichol<g ref="char:EOLhyphen"/>son</hi> 84; so that Alderman <hi>Pilkington</hi> and Mr. <hi>Shute</hi> were declared duly Elected.</p>
+            <p>The Election (upon the Poll) for <hi>Bridg-Masters</hi> fell upon Deputy <hi>Sexton</hi> and Captain <hi>Brackley.</hi> Which Elections being declared to the Common-Hall by the Recorder, an Ad<g ref="char:EOLhyphen"/>dress to the Lord Mayor, and another Address to the Two present Sheriffs was presented, and carried Unanimously, with loud Acclamations: And when the word <hi>PARLIAMENT</hi> was read in the Address to the Lord Mayor, the whole Hall gave a very great shout.</p>
+            <p>The Addresses are as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="address">
+                        <opener>To the Right Honourable Sir <hi>Patience Ward,</hi> Knight, Lord Mayor of the City of <hi>London:</hi> The Humble Petition of the Commons of the City of <hi>London</hi> in Common-Hall Assembled,<lb/> Sheweth,</opener>
+                        <p>THAT we do with all thankfulness acknow<g ref="char:EOLhyphen"/>ledg the great and wonderful mercy of Al<g ref="char:EOLhyphen"/>mighty God, in that notwithstanding the daily Plots and wicked Contrivances of the <hi>Papists</hi> and their Accomplices, we do still enjoy our ancient and un<g ref="char:EOLhyphen"/>doubted Right and Freedom of assembling our selves together for the choice of some principal Officers of this City for the year ensuing.</p>
+                        <p>And whilest we attend upon this Duty, we can<g ref="char:EOLhyphen"/>not but with all Gratitude remember the great care and faithful endeavours of your Lordship, the Al<g ref="char:EOLhyphen"/>dermen and Commons in Common-Council lately assembled in ordering an Humble Address to be presented to His Majesty, wherein was expressed your Lordships and their due sense of the continued danger of His Majesties Life (which God long preserve) and of the Protestant Religion, and of all our Lives, Liberties, and Estates, by the Designs and Conspiracies so long projected by the Councils of <hi>Rome</hi> and its Adherents. In the pursuit wherof they are chiest, animated by the continual hopes of a Popish Successor, and also your and their just ap<g ref="char:EOLhyphen"/>prehensions, that no effectual means can be provi<g ref="char:EOLhyphen"/>ded against the impending evils therein mentioned, but by the wisdom and advice of his Majesties great Council the Parliament.</p>
+                        <p>And whereas, it hath come to our knowledg, that reports (by mistake or prejudice) have been raised that the said Address did contain only the sense and desires of a few persons, and not of the Generality of this great City: We do therefore most humbly pray your Lordship that you will (in such manner as shall seem best to your Lordships discre<g ref="char:EOLhyphen"/>tion) humbly represent to his Majesty, that the sub<g ref="char:EOLhyphen"/>ject matter of the said Address is also the true sense, and doth contain the humble desires and re<g ref="char:EOLhyphen"/>solutions of his true and loyal Subjects the Citizens of his City of <hi>London</hi> in this their Common-Hall now assembled, and that his Majesty would be gra<g ref="char:EOLhyphen"/>ciously pleased to esteem it as such.</p>
+                        <p>And we having likewise taken notice that the same Common-Council did at the time of their Voting the said Address render their thanks to our late worthy members of the last Parliament for their faithful endeavours to serve this City according to the desires and instructions to them giver, and made by us at the time of their Election, we do think it our duty at this time to testifie our full concurrence therein.</p>
+                        <p>
+                           <hi>And your Petitioners shall ever pray,</hi> &amp;c.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="address">
+                        <head>To the Honoured <hi>Slingsby Bethel</hi> and <hi>Henry Cornish,</hi> Esquires, Sheriffs of this City of <hi>London,</hi> and County of <hi>Middlesex.</hi>
+                        </head>
+                        <p>WE (the Citizens of the said City in <hi>Common-Hall</hi> Assembled, being sensible of, and greatly satisfied with your Faithful Endea<g ref="char:EOLhyphen"/>vours, to discharge those Offices of Trust which we (not long since) call'd you too: And considering your wise and prudent conduct, and managery of our affairs within this City, particularly in your maintaining and asserting our undoubted Rights and Priviledges (as Citizens), and continual pro<g ref="char:EOLhyphen"/>vision of faithful and able Juries, especially in such a time as this, when Innocency it self is not shrouded from the imputation of the blackest crimes, and the best and most Loyal Protestants are ex<g ref="char:EOLhyphen"/>pos'd to the utmost hazards, by the Perjuries, Sub<g ref="char:EOLhyphen"/>ornations and Villanies of the Popish party, and their Adherents; and we cannot at this time omit the mentioning your fair Proceedings in our present Election of Sheriffs for the year ensuing, and di<g ref="char:EOLhyphen"/>spatch of an unnecessary Poll, without putting us off by Adjournments to a troublesome and weary attendance) do offer mid return to you our most hearty Thanks (as the only compensation we can (at present) make) being; confidently assur'd that you will steadfastly persist in those your most faith<g ref="char:EOLhyphen"/>ful Endeavours, as long as you shall continue Offi<g ref="char:EOLhyphen"/>cers in this Honourable City.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Janeway,</hi> in <hi>Queens-head-Alley</hi> in <hi>Pater-noster-Row.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
